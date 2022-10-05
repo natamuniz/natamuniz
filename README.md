@@ -15,7 +15,7 @@
   <a href="https://twitter.com/dev_muniz">
     <img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" style="vertical-align:top;">
   </a>
-  <a href="www.linkedin.com/in/nata-muniz">
+  <a href="https://www.linkedin.com/in/nata-muniz/">
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
