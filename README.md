@@ -67,8 +67,9 @@ I'm 21 years old, I'm from Rio de Janeiro, technology has always been a passion!
 
 ##
 <p align="center">
+<div>
 <a href="https://github.com/natamuniz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natamuniz&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=natamuniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 </p>
