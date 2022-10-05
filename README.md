@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/natamuniz/natanmuniz/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <img align="right"  width="250px" style="margin-top:-20px" src="https://i.ibb.co/stTD1rX/avatar-removebg-preview.png">
