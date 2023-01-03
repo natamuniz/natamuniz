@@ -53,7 +53,7 @@ I'm 21 years old, I'm from Rio de Janeiro, technology has always been a passion!
 </br>
 <div display="inline-block">
  <p align="left">📚 Currently my studies are focused on JavaScript and the React.js framework;</p>
- <p align="left">📷 I share my experiences with career transition, routine and study tips at <a href="https://www.instagram.com/muniz.natan1/">Instagram</a> and <a href="https://twitter.com/dev_muniz">Twitter</a>. Follow along and let's chat!!</p>
+ <p align="left">📷 I share my experiences with career transition, routine and study tips at <a href="https://www.instagram.com/natan.muniz1/">Instagram</a> and <a href="https://twitter.com/dev_muniz">Twitter</a>. Follow along and let's chat!!</p>
  <p align="left">☕I only consider myself ready to study after a cup of coffee and I love sports like football, formula 1 and chess.</p>
 </div>
 
@@ -61,11 +61,11 @@ I'm 21 years old, I'm from Rio de Janeiro, technology has always been a passion!
 
 </br>
 
-📫 You can talk to me on [Instagram](https://www.instagram.com/muniz.natan1/) or [Twitter](https://twitter.com/dev_muniz) and you can see my already developed projects, which are available here in the repositories. =)
+📫 You can talk to me on [Instagram](https://www.instagram.com/natan.muniz1/) or [Twitter](https://twitter.com/dev_muniz) and you can see my already developed projects, which are available here in the repositories. =)
 
 </br>
 
-<a href="https://www.instagram.com/muniz.natan1/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.instagram.com/natan.muniz1/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/dev_muniz" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://www.linkedin.com/in/nata-muniz/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
  <a href="https://dev.to/dev_muniz" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
