@@ -71,11 +71,3 @@ I'm 21 years old, I'm from Rio de Janeiro, technology has always been a passion!
  <a href="https://dev.to/dev_muniz" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 
 
-##
-<p align="center">
-<div>
-<a href="https://github.com/natamuniz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanmuniz&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanmuniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-</p>
