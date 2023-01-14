@@ -29,7 +29,7 @@
 
 ## Hi Everyone
 
-I'm 21 years old, I'm from Rio de Janeiro, technology has always been a passion! I'm a beginner in this vast universe of programming, but the more I study and learn, the more I love it all!! ❤
+I'm 22 years old, I'm from Rio de Janeiro, technology has always been a passion! I'm a beginner in this vast universe of programming, but the more I study and learn, the more I love it all!! ❤
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
@@ -65,13 +65,7 @@ I'm 21 years old, I'm from Rio de Janeiro, technology has always been a passion!
 
 </br>
 
-### 📊 Github Stats
-<a href='https://github.com/natamuniz/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/natamuniz/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/natamuniz/github-stats-transparent/output/generated/languages.svg)
 
-</a>
 
 <br>
 
