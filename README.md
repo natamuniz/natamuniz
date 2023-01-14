@@ -65,6 +65,16 @@ I'm 21 years old, I'm from Rio de Janeiro, technology has always been a passion!
 
 </br>
 
+### 📊 Github Stats
+<a href='https://github.com/natamuniz/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/natamuniz/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/natamuniz/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
+
 <a href="https://www.instagram.com/natan.muniz1/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/dev_muniz" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://www.linkedin.com/in/nata-muniz/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
