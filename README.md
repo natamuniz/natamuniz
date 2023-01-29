@@ -27,9 +27,10 @@
 </br>
 </br>
 
-## Hello Everyone
+## Hello Everyone!
 
 I'm 22 years old, I'm from Rio de Janeiro, technology has always been a passion! I'm a beginner in this vast universe of programming, but the more I study and learn, the more I love it all!! ❤
+
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
