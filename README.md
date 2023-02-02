@@ -69,9 +69,9 @@ I'm 22 years old, I'm from Rio de Janeiro, technology has always been a passion!
 
 
 
-<br>
-### My stats:
 </br>
+
+
 
 <div>
 <a href="https://github.com/natamuniz">
