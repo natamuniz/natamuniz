@@ -27,7 +27,7 @@
 </br>
 </br>
 
-## Hello Everyone!
+## Hi Everyone!
 
 I'm 22 years old, I'm from Rio de Janeiro, technology has always been a passion! I'm a beginner in this vast universe of programming, but the more I study and learn, the more I love it all!! ❤
 
@@ -70,6 +70,15 @@ I'm 22 years old, I'm from Rio de Janeiro, technology has always been a passion!
 
 
 <br>
+### My stats:
+</br>
+
+<div>
+<a href="https://github.com/natamuniz">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natamuniz&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=natamuniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+ </br>
 
 <a href="https://www.instagram.com/natan.muniz1/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/dev_muniz" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
