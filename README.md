@@ -1,7 +1,7 @@
 
 
 
-<img align="right"  width="250px" style="margin-top:-20px" src="https://i.ibb.co/stTD1rX/avatar-removebg-preview.png">
+
 
 
 
