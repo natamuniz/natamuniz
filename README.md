@@ -88,5 +88,5 @@ I'm 22 years old, I'm from Rio de Janeiro, technology has always been a passion!
  <a href="https://dev.to/dev_muniz" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
  
  
-[Snake animation](https://github.com/natamuniz/natamuniz/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/natamuniz/natamuniz/main/github-contribution-grid-snake.svg)
 
