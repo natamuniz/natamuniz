@@ -76,9 +76,9 @@ I'm 22 years old, I'm from Rio de Janeiro, technology has always been a passion!
 
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanmuniz&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanmuniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/natamuniz">
+<img height="180em" src="https://stats-yzow-natamuniz.vercel.app//api/top-langs/?username=natamuniz&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://stats-yzow-natamuniz.vercel.app//api?username=natamuniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  </br>
 
