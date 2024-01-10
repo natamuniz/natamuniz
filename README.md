@@ -75,11 +75,7 @@ I'm 22 years old, I'm from Rio de Janeiro, technology has always been a passion!
 
 
 
-<div>
-<a href="https://github.com/natamuniz">
-<img height="180em" src="https://stats-yzow-natamuniz.vercel.app//api/top-langs/?username=natamuniz&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://stats-yzow-natamuniz.vercel.app//api?username=natamuniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
  </br>
 
 <a href="https://www.instagram.com/natan.muniz1/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
@@ -88,5 +84,3 @@ I'm 22 years old, I'm from Rio de Janeiro, technology has always been a passion!
  <a href="https://dev.to/dev_muniz" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
  
  
-[Snake animation](https://github.com/natamuniz/natamuniz/main/github-contribution-grid-snake.svg)
-
