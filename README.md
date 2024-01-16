@@ -65,7 +65,7 @@ I'm 22 years old, I'm from Rio de Janeiro, technology has always been a passion!
 
 </br>
 
-📫 You can talk to me on [Instagram](https://www.instagram.com/natan.muniz1/) or [Twitter](https://twitter.com/dev_muniz) and you can see my already developed projects, which are available here in the repositories. =)
+📫 You can talk to me on [Instagram](https://www.instagram.com/natan.muniz1/) or [Twitter](https://twitter.com/dev_muniz) and you can see my already developed projects, which are available here in the repositories.
 
 </br>
 
