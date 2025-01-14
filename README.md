@@ -27,7 +27,7 @@
 </br>
 </br>
 
-## Hi Everyone!
+## Hi Everyone
 
 I'm 22 years old, I'm from Rio de Janeiro, technology has always been a passion! I'm a beginner in this vast universe of programming, but the more I study and learn, the more I love it all!! ❤
 
