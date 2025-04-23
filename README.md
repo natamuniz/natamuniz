@@ -45,9 +45,9 @@ I'm 22 years old, I'm from Rio de Janeiro, technology has always been a passion!
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="PYTHON"/></code>
 
 ### 📚 Studying :
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "C#"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = ".Net"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "Visual Studio"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title = "C#"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" title = ".Net"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title = "Visual Studio"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" /></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" /></code>
           
@@ -60,7 +60,7 @@ I'm 22 years old, I'm from Rio de Janeiro, technology has always been a passion!
 </br>
 </br>
 <div display="inline-block">
- <p align="left">📚 Currently my studies are focused on JavaScript and the React.js framework;</p>
+ <p align="left">📚 Currently my studies are focused on C# and the .NET</p>
  <p align="left">📷 I share my experiences with career transition, routine and study tips at <a href="https://www.instagram.com/natan.muniz1/">Instagram</a> and <a href="https://twitter.com/dev_muniz">Twitter</a>. Follow along and let's chat!!</p>
  <p align="left">☕I only consider myself ready to study after a cup of coffee and I love sports like football, formula 1 and chess.</p>
 </div>
