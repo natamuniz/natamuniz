@@ -80,7 +80,6 @@ I'm 22 years old, I'm from Rio de Janeiro, technology has always been a passion!
 </div>
 
 
-
 </br>
 
 
